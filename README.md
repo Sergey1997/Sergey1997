@@ -17,6 +17,13 @@ WALLET-LINKING-END -->
 🧙‍♂️ I'm Sergey, a Senior Full Stack Engineer
 ⚡ Previously worked for EPAM
 
+## 🚀 About Me
+- 💻 I work with: `JavaScript`, `TypeScript`, `Python`, `Solidity`, `C#`, `SQL`
+- ⚙️ Frameworks/Tools: `React`, `Next.js`, `Node.js`, `Express`, `Tailwind`, `Hardhat`, `Supabase`, `Docker`
+- 🧠 Interests: `AI Agents`, `DeFi`, `Real Estate Tech`, `Agentic OS`, `Open Source`
+- 🌐 Exploring: `Blockchain Dev`, `AI x Web3`, `Decentralized Infra`
+- 🛠 Building: Real-world solutions that combine automation, intelligence, and design
+
 <a href="http://www.github.com/Sergey1997">
  <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=7395df&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
 
@@ -33,6 +40,7 @@ WALLET-LINKING-END -->
 <!-- 👯 Open for contributing. -->
 <!--
 **Max-Starling/Max-Starling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
