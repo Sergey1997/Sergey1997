@@ -20,7 +20,7 @@ WALLET-LINKING-END -->
 <a href="http://www.github.com/Sergey1997">
  <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=7395df&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
 
-<img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
+<img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Sergey%27s%20GitHub%20Stats" align="center" />
  
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=4000&color=FFF516&multiline=true&repeat=false&width=535&height=30&lines=Ukra%D1%97ne%2Cthe+whole+world+is+with+you!%F0%9F%92%99%F0%9F%92%9B)](https://git.io/typing-svg) -->
 
