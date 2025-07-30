@@ -17,7 +17,7 @@ WALLET-LINKING-END -->
 🧙‍♂️ I'm Sergey, a Senior Full Stack Engineer
 ⚡ Previously worked for EPAM
 
-## 🚀 About Me
+  🚀 About Me
 - 💻 I work with: `JavaScript`, `TypeScript`, `Python`, `Solidity`, `C#`, `SQL`
 - ⚙️ Frameworks/Tools: `React`, `Next.js`, `Node.js`, `Express`, `Tailwind`, `Hardhat`, `Supabase`, `Docker`
 - 🧠 Interests: `AI Agents`, `DeFi`, `Real Estate Tech`, `Agentic OS`, `Open Source`
