@@ -24,8 +24,7 @@ WALLET-LINKING-END -->
 - 🌐 Exploring: `Blockchain Dev`, `AI x Web3`, `Decentralized Infra`
 - 🛠 Building: Real-world solutions that combine automation, intelligence, and design
 
-<a href="http://www.github.com/Sergey1997">
- <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=7395df&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
+
 
 <img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Sergey%27s%20GitHub%20Stats" align="center" />
  
